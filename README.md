@@ -1,6 +1,6 @@
 # Ammar Alrousan
 
-AI Student (3rd year) at Jordan University of Science and Technology (JUST)  
+AI Student (4rd year) at Jordan University of Science and Technology (JUST)  
 Research-oriented with interests in Computer Vision, NLP, and Large Language Models (LLMs).  
 Currently preparing for MS applications in the USA (Fall 2026) and seeking Research Assistant opportunities.
 
