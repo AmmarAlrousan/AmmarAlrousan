@@ -12,7 +12,7 @@ Currently preparing for MS applications in the USA (Fall 2026) and seeking Resea
 **Facial Emotion Recognition Using Transfer Learning with Xception Architecture**  
 - Published at ICICS 2025  
 - Focus: Transfer Learning, Deep CNNs (Xception), Facial Emotion Recognition  
-- Code repository: (to be added)  
+- Code repository: (https://github.com/AmmarAlrousan/facial-emotion-transfer-learning/tree/main)  
 - Paper link: (https://ieeexplore.ieee.org/abstract/document/11073104)
 
 ---
