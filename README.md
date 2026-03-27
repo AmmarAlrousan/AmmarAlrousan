@@ -8,5 +8,6 @@ Author of an IEEE-published paper on Facial Emotion Recognition using transfer l
 Experienced in applied research, model optimization, and system-level AI design.
 
 Currently preparing for MS (thesis-based) applications (Fall 2026).
+
 📍 Jordan | ✉️ ammaraimaster@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/ammar-alrousan-681b252b6
